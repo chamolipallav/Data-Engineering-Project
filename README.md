@@ -14,6 +14,6 @@ and the 3NF Schema Diagrma is
 
 [dvdrental_ER_model.pdf](https://github.com/chamolipallav/Data-Engineering-Project/files/10690163/dvdrental_ER_model.pdf)
 
-The final Query Time Analysis Results of STAR SCHEMA was much faster than the 3NF. 
+The final Query Time Analysis Results of STAR SCHEMA was much faster than the 3NF. using PGADMIN
 
 The main difference in results can be notes while working with large number of datasets.
